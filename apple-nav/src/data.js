@@ -1,5 +1,9 @@
 export const nav = [
   {
+    name: 'Home',
+    id: '',
+  },
+  {
     name: 'Mac',
     id: 'mac',
   },

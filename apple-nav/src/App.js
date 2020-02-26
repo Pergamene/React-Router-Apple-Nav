@@ -37,7 +37,7 @@ function App() {
       <Route exact path="/music" >
         <Music />
       </Route>
-      <Route exact path="/Support" >
+      <Route exact path="/support" >
         <Support />
       </Route>
     </div>
